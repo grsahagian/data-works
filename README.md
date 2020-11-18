@@ -1,7 +1,8 @@
 # data-works
 various data analysis related project notebooks
 
-1. COVID Correlation --> Correlation Analysis of various stocks pre/post COVID
-2. Industry Sector Analysis --> Max Drawdowns
-3. Twitter Scraping & Analysis --> Sentiment Analysis of Pfizer and Sentiment-based Trading Strategy
+1. covid-correlation.ipynb --> Correlation Analysis of various stocks pre/post COVID
+2. industry-sector-analysis.ipynb --> Max Drawdowns
+3. twitter-sentiment-analysis --> Sentiment Analysis of Pfizer and Sentiment-based Trading Strategy
+4. sentiment-bot --> Executable file that calculates average sentiment of tweets and number of tweets based on input(keyword)
   
